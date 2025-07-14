@@ -161,6 +161,7 @@ const ChatContainer = () => {
 
 export default ChatContainer;
 */
+// the coe is complementry
 
 import React, { useEffect, useRef } from 'react';
 import { useChatStore } from '../store/useChatStore';
