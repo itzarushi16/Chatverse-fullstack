@@ -1,7 +1,7 @@
 import { THEMES } from "../constants";
 import { useThemeStore } from "../store/useThemeStore";
 import { Send } from "lucide-react";
-
+//settings page
 const PREVIEW_MESSAGES = [
   { id: 1, content: "Namaste! Kya haal chal?", isSent: false },
   { id: 2, content: "Sab changa hai ji,bhai.", isSent: true },
