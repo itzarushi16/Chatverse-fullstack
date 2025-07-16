@@ -1,9 +1,10 @@
 # Chatverse
 
 **A full-stack, real-time anonymous chat application where users can make new friends without revealing their identity!**  
-Built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and powered by **Socket.io** for instant messaging.
+Built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and powered by **Socket.io** for instant messaging
 
 ---
+
 
 ## ✨ Features
 
