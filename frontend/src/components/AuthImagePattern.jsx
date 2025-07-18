@@ -16,8 +16,6 @@ const AuthImagePattern = ({ title, subtitle }) => {
           <p className="text-base-content/60">{subtitle}</p>
         </div>
       </div>
-
-        
     );
   };
   
