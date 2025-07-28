@@ -10,6 +10,7 @@ const TranslateWidget = () => {
         );
       }
     };
+    
 
     // If the script is already there, don’t add again
     if (!document.querySelector("#google-translate-script")) {
